@@ -1,17 +1,5 @@
 {
-  "prompt": "Cinematic photograph of a lone hiker on a dramatic fog-covered mountain 
-landscape. The hiker is blindfolded with a dark cloth tied around their 
-eyes, both hands slightly extended outward feeling the air, body leaning 
-carefully forward sensing the slope through their feet. They are 
-descending toward a small nearby valley directly ahead of them. 
-Through a break in the thick fog in the far background, a significantly 
-deeper and larger valley is faintly visible — the hiker is completely 
-unaware of it. The mountain terrain has multiple ridges and valleys. 
-Golden hour warm light breaks through the fog from one side, casting 
-long dramatic shadows. Mist clings to the lower valleys. The mood is 
-solitary, tense, searching. Shot on 35mm film, cinematic, photorealistic. 
-No text, no labels, no diagrams, no floating elements, no mathematical 
-notation anywhere in the image.",
+  "prompt": "Cinematic photograph of a lone hiker on a dramatic fog-covered mountain landscape. The hiker is blindfolded with a dark cloth tied around their eyes, both hands slightly extended outward feeling the air, body leaning carefully forward sensing the slope through their feet. They are descending toward a small nearby valley directly ahead of them. Through a break in the thick fog in the far background, a significantly deeper and larger valley is faintly visible — the hiker is completely unaware of it. The mountain terrain has multiple ridges and valleys. Golden hour warm light breaks through the fog from one side, casting long dramatic shadows. Mist clings to the lower valleys. The mood is solitary, tense, searching. Shot on 35mm film, cinematic, photorealistic. No text, no labels, no diagrams, no floating elements, no mathematical notation anywhere in the image.",
   "model": "Ideogram 2",
   "concept": "gradient descent",
   "metaphor": "A blindfolded hiker descends toward the nearest valley by feel alone, unaware of a deeper valley in the fog — local gradient followed without global landscape knowledge."
